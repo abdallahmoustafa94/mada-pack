@@ -1,0 +1,383 @@
+[
+  {
+    "id": "1",
+    "title": "علبة مستطيلة مفصلية مقاس ١٠٠٠ مم، من مادة ال PET النقية ١٠٠٪",
+    "desc": "مساحة ممتازة لتخزين الفاكهة والخضروات والمنتجات ذات الأحجام.",
+    "image": "/assets/img/shop/products/1.png",
+    "category": "asus",
+    "label": "new",
+    "liked": true,
+    "rating": 4,
+    "reviews": 3,
+    "price": "197.00",
+    "images": ["/assets/img/products/1-1.jpeg"]
+  },
+  {
+    "id": "2",
+    "title": "علبة مستطيلة مفصلية مقاس ١٠٠ مم من مادة ال PET النقية ١٠٠٪  ",
+    "desc": "لا غنى عن استخدامها، تصلح للمنتجات الجافة، ممتازة في إحكامها. ",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/2-1.jpeg",
+      "/assets/img/products/2-2.jpeg",
+      "/assets/img/products/2-3.jpeg",
+      "/assets/img/products/2-4.jpeg"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "علبة مستطيلة مفصلية مقاس 10 oz من مادة ال PET النقية ١٠٠٪ ",
+    "desc": "مساحة ممتازة لتخزين المنتجات ذات الأحجام المتوسطة ",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/3-1.jpeg",
+      "/assets/img/products/3-2.jpeg",
+      "/assets/img/products/3-3.jpeg",
+      "/assets/img/products/3-4.jpeg"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "علبة مستطيلة مفصلية مقاس ٥٠٠ مم، من مادة ال PET النقية ١٠٠٪    ",
+    "desc": "ممتازة للتسالي والمنتجات الرطبة والجافة.    ",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/4-1.jpeg",
+      "/assets/img/products/4-2.jpeg",
+      "/assets/img/products/4-3.jpeg"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "علبة مستطيلة مفصلية مقاس ٤ oz من مادة ال PET النقية ١٠٠٪ ",
+    "desc": "الأفضل للاستخدام مع المقرمشات وجميع انواع التسالي لحفظ الطعم.",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/5-1.jpeg",
+      "/assets/img/products/5-2.jpeg",
+      "/assets/img/products/5-3.jpeg",
+      "/assets/img/products/5-4.jpeg"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "علبة مستطيلة مفصلية مقاس ١٢٠ مم من مادة ال PET النقية ١٠٠٪",
+    "desc": "مميزة بالتضليعات ومرنة للاستخدام المتعدد ",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/6-1.jpeg",
+      "/assets/img/products/6-2.jpeg",
+      "/assets/img/products/6-3.jpeg"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "علبة مستطيلة مفصلية مقاس 12 oz من مادة ال PET النقية ١٠٠٪ ",
+    "desc": "مساحة ممتازة لتخزين المنتجات ذات الاحجام الكبيرة مثل الخضروات والفاكهة واللحوم ",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/7-1.jpeg",
+      "/assets/img/products/7-2.jpeg",
+      "/assets/img/products/7-3.jpeg",
+      "/assets/img/products/7-4.jpeg"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "علبة مستطيلة مفصلية مقاس ٨٠ مم من مادة ال PET النقية ١٠٠٪",
+    "desc": "تصميم جذاب وقدرة مميزة على الاستخدام مع المنتجات الدقيقة والحفاظ عليها.",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/8-1.jpeg",
+      "/assets/img/products/8-2.jpeg",
+      "/assets/img/products/8-3.jpeg"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "علبة مستطيلة مفصلية مقاس 8 oz من مادة ال PET النقية ١٠٠٪ ",
+    "desc": " .الاختيار الأمثل للمكسرات والسناكس بأحجامها، قادرة على حفظها طازجة لأطول فترة ممكنة",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/9-1.jpeg",
+      "/assets/img/products/9-2.jpeg",
+      "/assets/img/products/9-3.jpeg",
+      "/assets/img/products/9-4.jpeg"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "علبة مستطيلة مفصلية مقاس ٧٥٠ مم، من مادة ال PET النقية ١٠٠٪ ",
+    "desc": "تصميم مميز وقوي يصلح لتخزين كميات من المعلبات بأحكام.",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": ["/assets/img/products/10.jpeg"]
+  },
+  {
+    "id": "11",
+    "title": "علبة مستطيلة مفصلية مقاس ٦ oz من مادة ال PET النقية ١٠٠٪ ",
+    "desc": "الاختيار الأمثل للمكسرات بأحجامها، قادرة على حفظها طازجة لأطول فترة ممكنة. ",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/11-1.jpeg",
+      "/assets/img/products/11-2.jpeg",
+      "/assets/img/products/11-3.jpeg"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "علبة مستطيلة مقاس 850 مم من مادة ال PET النقية بغطاء منفصل",
+    "desc": "مساحة ممتازة لتخزين المنتجات ذات الاحجام الكبيرة مثل الخضروات والفاكهة واللحوم",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/12-1.jpeg",
+      "/assets/img/products/12-2.jpeg",
+      "/assets/img/products/12-3.jpeg",
+      "/assets/img/products/12-4.jpeg"
+    ]
+  },
+  {
+    "id": "13",
+    "title": "علبة مستطيلة مقاس 750 مم من مادة ال PET النقية بغطاء منفصل",
+    "desc": "مساحة ممتازة لتخزين المنتجات ذات الأحجام المتوسطة",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/13-1.jpeg",
+      "/assets/img/products/13-2.jpeg",
+      "/assets/img/products/13-3.jpeg",
+      "/assets/img/products/13-4.jpeg"
+    ]
+  },
+  {
+    "id": "14",
+    "title": "علبة مستطيلة مقاس 500مم من مادة ال PET النقية بغطاء منفصل ",
+    "desc": "تصميم مميز وقوي يصلح لتخزين كميات من المعلبات بأحكام.",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/14-1.jpeg",
+      "/assets/img/products/14-2.jpeg",
+      "/assets/img/products/14-3.jpeg",
+      "/assets/img/products/14-4.jpeg"
+    ]
+  },
+  {
+    "id": "15",
+    "title": "علبة مستطيلة مفصلية مقاس ٨٥٠ مم، من مادة ال PET النقية ١٠٠٪",
+    "desc": "تتحمل الكميات والافضل لتخزين الجبن والمعلبات بكميات كبيرة.",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/15-1.jpeg",
+      "/assets/img/products/15-2.jpeg",
+      "/assets/img/products/15-3.jpeg"
+    ]
+  },
+  {
+    "id": "16",
+    "title": "غطاء علبة مستطيلة مقاس ( 1000 مم – 850 مم – 750 مم – 500 مم ) ",
+    "desc": "غطاء علبة مستطيلة مقاس ( 1000 مم – 850 مم – 750 مم – 500 مم ) ",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/16-1.jpeg",
+      "/assets/img/products/16-2.jpeg",
+      "/assets/img/products/16-3.jpeg",
+      "/assets/img/products/16-4.jpeg"
+    ]
+  },
+  {
+    "id": "17",
+    "title": "علبه مستطيله safety مقاس 800 مم من ماده ال PET النقيه",
+    "desc": "تتحمل الكميات والافضل لتخزين الجبن والمعلبات بكميات كبيرة",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/17-1.jpeg",
+      "/assets/img/products/17-2.jpeg",
+      "/assets/img/products/17-3.jpeg",
+      "/assets/img/products/17-4.jpeg"
+    ]
+  },
+  {
+    "id": "18",
+    "title": "علبة مستطيله safety مقاس مم400 من ماده ال PET النقيه",
+    "desc": "ممتازة للتسالي والمنتجات الرطبة والجافة.",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/18-1.jpeg",
+      "/assets/img/products/18-2.jpeg",
+      "/assets/img/products/18-3.jpeg",
+      "/assets/img/products/18-4.jpeg"
+    ]
+  },
+  {
+    "id": "19",
+    "title": "علبة مستطيلة مقاس1000مم من مادة الPET النقية بغطاء منفصل",
+    "desc": "مساحة ممتازة لتخزين المنتجات ذات الاحجام الكبيرة مثل الخضروات والفاكهة واللحوم ",
+    "image": "/assets/img/shop/products/2.png",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "/assets/img/products/19-1.jpeg",
+      "/assets/img/products/19-2.jpeg",
+      "/assets/img/products/19-3.jpeg",
+      "/assets/img/products/19-4.jpeg"
+    ]
+  }
+]
