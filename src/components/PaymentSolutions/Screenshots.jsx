@@ -1,14 +1,22 @@
-import React from "react";
+import React,{useState, useEffect} from "react";
+
 
 const Screenshots = () => {
+  const [windowWidth, setWindowWidth] = useState(null)
+
+  useEffect(()=>{
+    if(typeof window !== undefined){
+      setWindowWidth(window.innerWidth)
+    }
+  },[windowWidth])
   return (
     <section className="screenshots style-14 section-padding">
       <div className="container">
-        <div className="about-row mb-150">
-          <div className="row gx-5 align-items-center">
+        <div className="about-row mb-150" >
+          <div className="row gx-5 align-items-center" style={{flexDirection : windowWidth > 500 ? "row" : `column-reverse `}} >
             <div className="col-lg-6">
               <div>
-                <div className="row gx-0">
+                <div className="row gx-0" >
                   <div className="col-12 pt-50">
                     <img src="/assets/img/4.jpg" alt="" className="main-img" />
                   </div>
