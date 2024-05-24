@@ -8,7 +8,10 @@ const Contact = ()=>{
   return(
     <MainLayout title="مادا | اتصل بنا">
       <Navbar />
-      <main className="contact-page style-5" style={{paddingTop:'150px'}}>
+      <main className="contact-page style-5" >
+      <div className="m-auto " style={{background:`url(/assets/img/banner-inner.jpg)`, backgroundSize:"cover", height:"350px", width:"100%", backgroundPosition:"center ", backgroundRepeat:"no-repeat"}}>
+    
+    </div>
           <Form style="5" />
           <Map />
           <Footer />

@@ -7,11 +7,10 @@ const Products = ()=>{
   return(
     <MainLayout title="مادا | منتجاتنا">
     <Navbar />
-    <main style={{paddingTop:'150px'}}>
-      <div className='m-auto w-50'>
-        <h1 className='text-center'>منتجاتنا</h1>
-        <img src="/assets/img/mada-icon.png" alt="" className='w-25 m-auto d-block'/>
-      </div>
+    <main>
+    <div className="m-auto " style={{background:`url(/assets/img/banner-inner.jpg)`, backgroundSize:"cover", height:"350px", width:"100%", backgroundPosition:"center ", backgroundRepeat:"no-repeat"}}>
+    
+        </div>
       <main className="shop-page style-5 style-grad">
           <Shop style="4" />
         </main>

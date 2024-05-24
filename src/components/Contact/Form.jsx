@@ -1,7 +1,11 @@
-import { useState } from 'react';
+import { useState,useEffect } from 'react';
 import axios from 'axios';
 import contactInfo from '@data/Contact/form.json';
 import contactInfoRTL from '@data/Contact/form-rtl.json';
+import { FaLocationDot } from "react-icons/fa6";
+import { FaPhone } from "react-icons/fa6";
+import { MdEmail } from "react-icons/md";
+
 
 const Form = ({ style = "4", rtl }) => {
   const [formData, setFormdata] = useState({
@@ -12,6 +16,7 @@ const Form = ({ style = "4", rtl }) => {
     option: "",
     message: ""
   });
+  const [ windowWidth,setWindowWidth] = useState(null)
 
   const contactInfoData = rtl ? contactInfoRTL : contactInfo;
 
@@ -22,44 +27,55 @@ const Form = ({ style = "4", rtl }) => {
     }))
   }
 
-  const handleFormSubmit = async (e) => {
-    e.preventDefault();
-    const formValues = new FormData();
+  useEffect(()=>{
+    if(typeof window !== undefined){
+      setWindowWidth(window.innerWidth)
+    }
+  },[windowWidth])
 
-    formValues.append('name', formData.name);
-    formValues.append('email', formData.email);
-    formValues.append('phone', formData.phone);
-    formValues.append('website', formData.website);
-    formValues.append('option', formData.option);
-    formValues.append('message', formData.message);
+  // const handleFormSubmit = async (e) => {
+  //   e.preventDefault();
+  //   const formValues = new FormData();
+
+  //   formValues.append('name', formData.name);
+  //   formValues.append('email', formData.email);
+  //   formValues.append('phone', formData.phone);
+  //   formValues.append('website', formData.website);
+  //   formValues.append('option', formData.option);
+  //   formValues.append('message', formData.message);
     
-    const res = await axios.post('/contact.php', formValues)
-      .catch(err => alert(err.message));
+  //   const res = await axios.post('/contact.php', formValues)
+  //     .catch(err => alert(err.message));
 
-    if (!res) return;
+  //   if (!res) return;
 
-    alert('Form submitted successfully.')
-  }
+  //   alert('Form submitted successfully.')
+  // }
 
   return (
-    <section className={`contact section-padding pt-${style === '4' ? '0':'50'} style-6`}>
-      {
-        style === '5' && (
+    <section >
+  
           <>
-              <div className='m-auto w-50'>
-          <h1 className='text-center'>اتصل بنا </h1>
-          <img src="/assets/img/mada-icon.png" alt="" className='w-25 m-auto d-block'/>
-        </div>
-            <div className="text-center mb-100">
-              <p className='mt-5  m-auto'>نحن نقدم مجموعة متنوعة من الحاويات البلاستيكية. في الوقت الحالي على وجه الخصوص ، نحن نبذل قصارى جهدنا لتوفير العبوة اللازمة لمنتجك للوصول إلى السوق.
+              
+              <p className='mt-5  m-auto' style={{width:windowWidth > 500 ? "50%" : "100%", fontSize:"20px", textAlign:"center"}}>نحن نقدم مجموعة متنوعة من الحاويات البلاستيكية. في الوقت الحالي على وجه الخصوص ، نحن نبذل قصارى جهدنا لتوفير العبوة اللازمة لمنتجك للوصول إلى السوق.
 </p>
-              <h2 className="ltspc-20 text-uppercase fs-1 lh-1 mb-50 mt-30 " style={{direction:'ltr', color:'#102944'}}>+20 111 444 7801</h2>
-              <h4 className="fw-normal mb-20 color-000">info@madapack.com</h4>
-              <h4 className="fw-normal mb-10 color-000">المنطقة الصناعية الجديدة امتداد الرابعة قطعة ٤ بلوك ٩ مدينة برج العرب الجديدة الاسكندرية</h4>
-            </div>
+            <div className="text-center mb-100 mt-100" style={{display:"flex", flexDirection: windowWidth > 500 ?"row" : "column", justifyContent:windowWidth > 500 ? "space-between" : "center"}}>
+              <div style={{width:windowWidth > 500 ? "33.3%" : "100%"}}>
+                <FaLocationDot size={50}/>
+                <p style={{width:"50%", margin:"auto",fontSize:"20px"}}>المنطقة الصناعية الجديدة امتداد الرابعة قطعة ٤ بلوك ٩ مدينة برج العرب الجديدة الاسكندرية</p>
+              </div>
+              <div style={{width:windowWidth > 500 ? "33.3%" : "100%"}}>
+              <FaPhone size={50}/>
+                <p style={{width:"50%", margin:"auto",fontSize:"20px"}}>+201114447801</p>
+              </div>
+              <div style={{width:windowWidth > 500 ? "33.3%" : "100%"}}>
+              <MdEmail size={50}/>
+                <p style={{width:"50%", margin:"auto",fontSize:"20px"}}>info@mada-pack.com</p>
+              </div>
+              </div>
+             
           </>
-        )
-      }
+    
       {/* <div className="container">
         <div className="content">
           <div className="row justify-content-center">
