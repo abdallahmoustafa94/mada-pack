@@ -42,8 +42,8 @@ const Header = () => {
           <Slider {...settings}>
 
           <img src="/assets/img/banner-sm-1.jpg" alt="" />
-          <img src="/assets/img/banner-sm-2.jpg" alt="" />
-          <img src="/assets/img/banner-sm-3.jpg" alt="" />
+          <img src="/assets/img/banner-sm-1.jpg" alt="" />
+          <img src="/assets/img/banner-sm-1.jpg" alt="" />
           </Slider>
 
         )}
