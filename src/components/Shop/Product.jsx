@@ -2,7 +2,7 @@ import { useRouter } from "next/router"
 const Product = ({ product, rtl }) => {
   const router = useRouter()
   return (
-    <div className="col-6 col-lg-3 col-sm-6 card-width">
+    <div className="col-6 col-lg-4 col-sm-6 card-width">
       <div className="product-card" onClick={()=>router.push(`/products/${product.id}`)}>
         <div className="img">
           <img src={product.images?.[0]} alt="" />

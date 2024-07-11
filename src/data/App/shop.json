@@ -3,14 +3,14 @@
     "id": "1",
     "title": "علبة مستطيلة مفصلية مقاس ١٠٠٠ مم، من مادة ال PET النقية ١٠٠٪",
     "desc": "مساحة ممتازة لتخزين الفاكهة والخضروات والمنتجات ذات الأحجام.",
-    "image": "/assets/img/shop/products/1.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709851/TUFEQV82X3J6ZWNrdA==/preview",
     "category": "asus",
     "label": "new",
     "liked": true,
     "rating": 4,
     "reviews": 3,
     "price": "197.00",
-    "images": ["/assets/img/products/1-1.jpeg"]
+    "images": ["https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709851/TUFEQV82X3J6ZWNrdA==/preview","/assets/img/products/1-1.jpeg"]
   },
   {
     "id": "2",
@@ -37,7 +37,7 @@
     "id": "3",
     "title": "علبة مستطيلة مفصلية مقاس 10 oz من مادة ال PET النقية ١٠٠٪ ",
     "desc": "مساحة ممتازة لتخزين المنتجات ذات الأحجام المتوسطة ",
-    "image": "/assets/img/shop/products/2.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709717/TUFEQV83X2N0eXZpYQ==/preview",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -48,6 +48,7 @@
       "new": "421.00"
     },
     "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709717/TUFEQV83X2N0eXZpYQ==/preview",
       "/assets/img/products/3-1.jpeg",
       "/assets/img/products/3-2.jpeg",
       "/assets/img/products/3-3.jpeg",
@@ -58,7 +59,7 @@
     "id": "4",
     "title": "علبة مستطيلة مفصلية مقاس ٥٠٠ مم، من مادة ال PET النقية ١٠٠٪    ",
     "desc": "ممتازة للتسالي والمنتجات الرطبة والجافة.    ",
-    "image": "/assets/img/shop/products/2.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709851/TUFEQV82X3J6ZWNrdA==/preview",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -69,6 +70,7 @@
       "new": "421.00"
     },
     "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709851/TUFEQV82X3J6ZWNrdA==/preview",
       "/assets/img/products/4-1.jpeg",
       "/assets/img/products/4-2.jpeg",
       "/assets/img/products/4-3.jpeg"
@@ -160,7 +162,7 @@
     "id": "9",
     "title": "علبة مستطيلة مفصلية مقاس 8 oz من مادة ال PET النقية ١٠٠٪ ",
     "desc": " .الاختيار الأمثل للمكسرات والسناكس بأحجامها، قادرة على حفظها طازجة لأطول فترة ممكنة",
-    "image": "/assets/img/shop/products/2.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709717/TUFEQV83X2N0eXZpYQ==/preview",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -171,6 +173,7 @@
       "new": "421.00"
     },
     "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709717/TUFEQV83X2N0eXZpYQ==/preview",
       "/assets/img/products/9-1.jpeg",
       "/assets/img/products/9-2.jpeg",
       "/assets/img/products/9-3.jpeg",
@@ -181,7 +184,7 @@
     "id": "10",
     "title": "علبة مستطيلة مفصلية مقاس ٧٥٠ مم، من مادة ال PET النقية ١٠٠٪ ",
     "desc": "تصميم مميز وقوي يصلح لتخزين كميات من المعلبات بأحكام.",
-    "image": "/assets/img/shop/products/2.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709851/TUFEQV82X3J6ZWNrdA==/preview",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -191,13 +194,13 @@
       "old": "521.00",
       "new": "421.00"
     },
-    "images": ["/assets/img/products/10.jpeg"]
+    "images": ["https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709851/TUFEQV82X3J6ZWNrdA==/preview","/assets/img/products/10.jpeg"]
   },
   {
     "id": "11",
     "title": "علبة مستطيلة مفصلية مقاس ٦ oz من مادة ال PET النقية ١٠٠٪ ",
     "desc": "الاختيار الأمثل للمكسرات بأحجامها، قادرة على حفظها طازجة لأطول فترة ممكنة. ",
-    "image": "/assets/img/shop/products/2.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709717/TUFEQV83X2N0eXZpYQ==/preview",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -208,6 +211,7 @@
       "new": "421.00"
     },
     "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709717/TUFEQV83X2N0eXZpYQ==/preview",
       "/assets/img/products/11-1.jpeg",
       "/assets/img/products/11-2.jpeg",
       "/assets/img/products/11-3.jpeg"
@@ -217,7 +221,7 @@
     "id": "12",
     "title": "علبة مستطيلة مقاس 850 مم من مادة ال PET النقية بغطاء منفصل",
     "desc": "مساحة ممتازة لتخزين المنتجات ذات الاحجام الكبيرة مثل الخضروات والفاكهة واللحوم",
-    "image": "/assets/img/shop/products/2.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709502/TUFEQV84Xy1fNC44X25hYmozZw==/preview",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -228,6 +232,7 @@
       "new": "421.00"
     },
     "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709502/TUFEQV84Xy1fNC44X25hYmozZw==/preview",
       "/assets/img/products/12-1.jpeg",
       "/assets/img/products/12-2.jpeg",
       "/assets/img/products/12-3.jpeg",
@@ -238,7 +243,7 @@
     "id": "13",
     "title": "علبة مستطيلة مقاس 750 مم من مادة ال PET النقية بغطاء منفصل",
     "desc": "مساحة ممتازة لتخزين المنتجات ذات الأحجام المتوسطة",
-    "image": "/assets/img/shop/products/2.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709502/TUFEQV84Xy1fNC44X25hYmozZw==/preview",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -249,6 +254,7 @@
       "new": "421.00"
     },
     "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709502/TUFEQV84Xy1fNC44X25hYmozZw==/preview",
       "/assets/img/products/13-1.jpeg",
       "/assets/img/products/13-2.jpeg",
       "/assets/img/products/13-3.jpeg",
@@ -259,7 +265,7 @@
     "id": "14",
     "title": "علبة مستطيلة مقاس 500مم من مادة ال PET النقية بغطاء منفصل ",
     "desc": "تصميم مميز وقوي يصلح لتخزين كميات من المعلبات بأحكام.",
-    "image": "/assets/img/shop/products/2.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709502/TUFEQV84Xy1fNC44X25hYmozZw==/preview",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -270,6 +276,7 @@
       "new": "421.00"
     },
     "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709502/TUFEQV84Xy1fNC44X25hYmozZw==/preview",
       "/assets/img/products/14-1.jpeg",
       "/assets/img/products/14-2.jpeg",
       "/assets/img/products/14-3.jpeg",
@@ -280,7 +287,7 @@
     "id": "15",
     "title": "علبة مستطيلة مفصلية مقاس ٨٥٠ مم، من مادة ال PET النقية ١٠٠٪",
     "desc": "تتحمل الكميات والافضل لتخزين الجبن والمعلبات بكميات كبيرة.",
-    "image": "/assets/img/shop/products/2.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709851/TUFEQV82X3J6ZWNrdA==/preview",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -291,6 +298,7 @@
       "new": "421.00"
     },
     "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709851/TUFEQV82X3J6ZWNrdA==/preview",
       "/assets/img/products/15-1.jpeg",
       "/assets/img/products/15-2.jpeg",
       "/assets/img/products/15-3.jpeg"
@@ -321,7 +329,7 @@
     "id": "17",
     "title": "علبه مستطيله safety مقاس 800 مم من ماده ال PET النقيه",
     "desc": "تتحمل الكميات والافضل لتخزين الجبن والمعلبات بكميات كبيرة",
-    "image": "/assets/img/shop/products/2.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709329/TUFEQV85X2dvYjZ5ZA==/preview",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -332,6 +340,7 @@
       "new": "421.00"
     },
     "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709329/TUFEQV85X2dvYjZ5ZA==/preview",
       "/assets/img/products/17-1.jpeg",
       "/assets/img/products/17-2.jpeg",
       "/assets/img/products/17-3.jpeg",
@@ -342,7 +351,7 @@
     "id": "18",
     "title": "علبة مستطيله safety مقاس مم400 من ماده ال PET النقيه",
     "desc": "ممتازة للتسالي والمنتجات الرطبة والجافة.",
-    "image": "/assets/img/shop/products/2.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709329/TUFEQV85X2dvYjZ5ZA==/preview",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -353,6 +362,7 @@
       "new": "421.00"
     },
     "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709329/TUFEQV85X2dvYjZ5ZA==/preview",
       "/assets/img/products/18-1.jpeg",
       "/assets/img/products/18-2.jpeg",
       "/assets/img/products/18-3.jpeg",
@@ -363,7 +373,7 @@
     "id": "19",
     "title": "علبة مستطيلة مقاس1000مم من مادة الPET النقية بغطاء منفصل",
     "desc": "مساحة ممتازة لتخزين المنتجات ذات الاحجام الكبيرة مثل الخضروات والفاكهة واللحوم ",
-    "image": "/assets/img/shop/products/2.png",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709502/TUFEQV84Xy1fNC44X25hYmozZw==/preview",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -374,10 +384,112 @@
       "new": "421.00"
     },
     "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709502/TUFEQV84Xy1fNC44X25hYmozZw==/preview",
       "/assets/img/products/19-1.jpeg",
       "/assets/img/products/19-2.jpeg",
       "/assets/img/products/19-3.jpeg",
       "/assets/img/products/19-4.jpeg"
     ]
+  },
+  {
+    "id": "20",
+    "title": "عبوة مربعة مفصلية مقاس 1000 مم من مادة pet",
+    "desc": "عبوة مربعة مفصلية مقاس 1000 مم من مادة pet",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720707267/SU1HXzI0MDZfbWpjMG85/preview",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720707267/SU1HXzI0MDZfbWpjMG85/preview",
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720707270/SU1HXzI0MDhfd2JuOGlq/preview",
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720707632/SU1HXzI0MTBfZTB4dDkz/preview"
+    ]
+  },
+  {
+    "id": "21",
+    "title": "عبوة مربعة مفصلية مقاس 1250 مم من مادة pet",
+    "desc": "عبوة مربعة مفصلية مقاس 1250 مم من مادة pet",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708185/SU1HXzI0MjRfZ3JzMXJz/preview",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708185/SU1HXzI0MjRfZ3JzMXJz/preview",
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708187/SU1HXzI0MjFfZHp2ZHh0/preview",
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708188/SU1HXzI0MjdfY2lybGl6/preview"
+    ]
+  },
+  {
+    "id": "22",
+    "title": "عبوة مربعة مفصلية مقاس 1500 مم من مادة pet",
+    "desc": "عبوة مربعة مفصلية مقاس 1500 مم من مادة pet",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708414/SU1HXzI0MjRfZjRpa3Rl/preview",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708414/SU1HXzI0MjRfZjRpa3Rl/preview",
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708404/SU1HXzI0MjFfd2E5MGVk/preview",
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708402/SU1HXzI0MjdfYzM4MHlp/preview"
+    ]
+  },
+  {
+    "id": "23",
+    "title": "عبوة مربعة مفصلية مقاس 1750 مم من مادة pet",
+    "desc": "عبوة مربعة مفصلية مقاس 1750 مم من مادة pet",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708680/SU1HXzI0MjdfY2c0ZnV4/preview",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708680/SU1HXzI0MjdfY2c0ZnV4/preview",
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708682/SU1HXzI0MjRfZ2hzcXNy/preview",
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708689/SU1HXzI0MjFfeWt1bG5u/preview"
+    ]
+  },
+  {
+    "id": "24",
+    "title": "عبوة مربعة مفصلية مقاس 2000 مم من مادة pet",
+    "desc": "عبوة مربعة مفصلية مقاس 1750 مم من مادة pet",
+    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708856/SU1HXzI0MjRfbThnZWFw/preview",
+    "category": "apple",
+    "label": "15% off",
+    "liked": false,
+    "rating": 4,
+    "reviews": 3,
+    "price": {
+      "old": "521.00",
+      "new": "421.00"
+    },
+    "images": [
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708856/SU1HXzI0MjRfbThnZWFw/preview",
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708860/SU1HXzI0MjdfZWltM2Nw/preview",
+      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720708864/SU1HXzI0MjFfb3d1Y3Fl/preview"
+    ]
   }
+
 ]
