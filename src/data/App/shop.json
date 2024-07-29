@@ -3,14 +3,14 @@
     "id": "1",
     "title": "علبة مستطيلة مفصلية مقاس ١٠٠٠ مم، من مادة ال PET النقية ١٠٠٪",
     "desc": "مساحة ممتازة لتخزين الفاكهة والخضروات والمنتجات ذات الأحجام.",
-    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709851/TUFEQV82X3J6ZWNrdA==/preview",
+    "image": "https://res.cloudinary.com/dmaoa2ddz/image/upload/v1720709851/MADA_6_rzeckt.png",
     "category": "asus",
     "label": "new",
     "liked": true,
     "rating": 4,
     "reviews": 3,
     "price": "197.00",
-    "images": ["https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709851/TUFEQV82X3J6ZWNrdA==/preview","/assets/img/products/1-1.jpeg"]
+    "images": ["https://res.cloudinary.com/dmaoa2ddz/image/upload/v1720709851/MADA_6_rzeckt.png","/assets/img/products/1-1.jpeg"]
   },
   {
     "id": "2",
@@ -37,7 +37,7 @@
     "id": "3",
     "title": "علبة مستطيلة مفصلية مقاس 10 oz من مادة ال PET النقية ١٠٠٪ ",
     "desc": "مساحة ممتازة لتخزين المنتجات ذات الأحجام المتوسطة ",
-    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709717/TUFEQV83X2N0eXZpYQ==/preview",
+    "image": "https://res.cloudinary.com/dmaoa2ddz/image/upload/v1720709717/MADA_7_ctyvia.png",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -48,7 +48,7 @@
       "new": "421.00"
     },
     "images": [
-      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709717/TUFEQV83X2N0eXZpYQ==/preview",
+      "https://res.cloudinary.com/dmaoa2ddz/image/upload/v1720709717/MADA_7_ctyvia.png",
       "/assets/img/products/3-1.jpeg",
       "/assets/img/products/3-2.jpeg",
       "/assets/img/products/3-3.jpeg",
@@ -59,7 +59,7 @@
     "id": "4",
     "title": "علبة مستطيلة مفصلية مقاس ٥٠٠ مم، من مادة ال PET النقية ١٠٠٪    ",
     "desc": "ممتازة للتسالي والمنتجات الرطبة والجافة.    ",
-    "image": "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709851/TUFEQV82X3J6ZWNrdA==/preview",
+    "image": "https://res.cloudinary.com/dmaoa2ddz/image/upload/v1720709851/MADA_6_rzeckt.png",
     "category": "apple",
     "label": "15% off",
     "liked": false,
@@ -70,7 +70,7 @@
       "new": "421.00"
     },
     "images": [
-      "https://res-console.cloudinary.com/dmaoa2ddz/thumbnails/v1/image/upload/v1720709851/TUFEQV82X3J6ZWNrdA==/preview",
+      "https://res.cloudinary.com/dmaoa2ddz/image/upload/v1720709851/MADA_6_rzeckt.png",
       "/assets/img/products/4-1.jpeg",
       "/assets/img/products/4-2.jpeg",
       "/assets/img/products/4-3.jpeg"
