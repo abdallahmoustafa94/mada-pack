@@ -28,7 +28,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-      <title>مادا - رواد صناعة البلاستيك في مصر</title>
+        <title>مادا - رواد صناعة البلاستيك في مصر</title>
 
         <meta
           name="viewport"
@@ -47,7 +47,7 @@ function MyApp({ Component, pageProps }) {
             backgroundColor: "#25d366",
             animation: "pulse 2s infinite",
           }}
-          href="https://wa.me/201095125220"
+          href="https://wa.me/201114447801"
         >
           <FaWhatsapp className="whatsapp" style={{ fontSize: "22px" }} />
         </a>
@@ -60,7 +60,7 @@ function MyApp({ Component, pageProps }) {
             bottom: "100px",
             animation: "pulse 2s infinite",
           }}
-          href="tel:00201095125220"
+          href="tel:00201114447801"
         >
           <FiPhoneCall className="call" style={{ fontSize: "22px" }} />
         </a>

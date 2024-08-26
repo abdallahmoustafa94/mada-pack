@@ -1,11 +1,10 @@
-import { useState,useEffect } from 'react';
-import axios from 'axios';
-import contactInfo from '@data/Contact/form.json';
-import contactInfoRTL from '@data/Contact/form-rtl.json';
+import { useState, useEffect } from "react";
+import axios from "axios";
+import contactInfo from "@data/Contact/form.json";
+import contactInfoRTL from "@data/Contact/form-rtl.json";
 import { FaLocationDot } from "react-icons/fa6";
 import { FaPhone } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
-
 
 const Form = ({ style = "4", rtl }) => {
   const [formData, setFormdata] = useState({
@@ -14,24 +13,24 @@ const Form = ({ style = "4", rtl }) => {
     phone: "",
     website: "",
     option: "",
-    message: ""
+    message: "",
   });
-  const [ windowWidth,setWindowWidth] = useState(null)
+  const [windowWidth, setWindowWidth] = useState(null);
 
   const contactInfoData = rtl ? contactInfoRTL : contactInfo;
 
   const handleFormChange = (e) => {
-    setFormdata(prev => ({
+    setFormdata((prev) => ({
       ...prev,
-      [e.target.name]: e.target.value
-    }))
-  }
+      [e.target.name]: e.target.value,
+    }));
+  };
 
-  useEffect(()=>{
-    if(typeof window !== undefined){
-      setWindowWidth(window.innerWidth)
+  useEffect(() => {
+    if (typeof window !== undefined) {
+      setWindowWidth(window.innerWidth);
     }
-  },[windowWidth])
+  }, [windowWidth]);
 
   // const handleFormSubmit = async (e) => {
   //   e.preventDefault();
@@ -43,7 +42,7 @@ const Form = ({ style = "4", rtl }) => {
   //   formValues.append('website', formData.website);
   //   formValues.append('option', formData.option);
   //   formValues.append('message', formData.message);
-    
+
   //   const res = await axios.post('/contact.php', formValues)
   //     .catch(err => alert(err.message));
 
@@ -53,29 +52,53 @@ const Form = ({ style = "4", rtl }) => {
   // }
 
   return (
-    <section >
-  
-          <>
-              
-              <p className='mt-5  m-auto' style={{width:windowWidth > 500 ? "50%" : "100%", fontSize:"20px", textAlign:"center"}}>نحن نقدم مجموعة متنوعة من الحاويات البلاستيكية. في الوقت الحالي على وجه الخصوص ، نحن نبذل قصارى جهدنا لتوفير العبوة اللازمة لمنتجك للوصول إلى السوق.
-</p>
-            <div className="text-center mb-100 mt-100" style={{display:"flex", flexDirection: windowWidth > 500 ?"row" : "column", justifyContent:windowWidth > 500 ? "space-between" : "center"}}>
-              <div style={{width:windowWidth > 500 ? "33.3%" : "100%"}}>
-                <FaLocationDot size={50}/>
-                <p style={{width:"50%", margin:"auto",fontSize:"20px"}}>المنطقة الصناعية الجديدة امتداد الرابعة قطعة ٤ بلوك ٩ مدينة برج العرب الجديدة الاسكندرية</p>
-              </div>
-              <div style={{width:windowWidth > 500 ? "33.3%" : "100%"}}>
-              <FaPhone size={50}/>
-                <p style={{width:"50%", margin:"auto",fontSize:"20px"}}>+201114447801</p>
-              </div>
-              <div style={{width:windowWidth > 500 ? "33.3%" : "100%"}}>
-              <MdEmail size={50}/>
-                <p style={{width:"50%", margin:"auto",fontSize:"20px"}}>info@mada-pack.com</p>
-              </div>
-              </div>
-             
-          </>
-    
+    <section>
+      <>
+        <p
+          className="mt-5  m-auto"
+          style={{
+            width: windowWidth > 500 ? "50%" : "100%",
+            fontSize: "20px",
+            textAlign: "center",
+          }}
+        >
+          نحن نقدم مجموعة متنوعة من الحاويات البلاستيكية. في الوقت الحالي على
+          وجه الخصوص ، نحن نبذل قصارى جهدنا لتوفير العبوة اللازمة لمنتجك للوصول
+          إلى السوق.
+        </p>
+        <div
+          className="text-center mb-100 mt-100"
+          style={{
+            display: "flex",
+            flexDirection: windowWidth > 500 ? "row" : "column",
+            justifyContent: windowWidth > 500 ? "space-between" : "center",
+          }}
+        >
+          <div style={{ width: windowWidth > 500 ? "33.3%" : "100%" }}>
+            <FaLocationDot size={50} />
+            <p style={{ width: "50%", margin: "auto", fontSize: "20px" }}>
+              المنطقة الصناعية الجديدة امتداد الرابعة قطعة ٤ بلوك ٩ مدينة برج
+              العرب الجديدة الاسكندرية
+            </p>
+          </div>
+          <div style={{ width: windowWidth > 500 ? "33.3%" : "100%" }}>
+            <FaPhone size={50} />
+            <p style={{ width: "50%", margin: "auto", fontSize: "20px" }}>
+              +201114447801
+            </p>
+            <p style={{ width: "50%", margin: "auto", fontSize: "20px" }}>
+              035890555
+            </p>
+          </div>
+          <div style={{ width: windowWidth > 500 ? "33.3%" : "100%" }}>
+            <MdEmail size={50} />
+            <p style={{ width: "50%", margin: "auto", fontSize: "20px" }}>
+              info@mada-pack.com
+            </p>
+          </div>
+        </div>
+      </>
+
       {/* <div className="container">
         <div className="content">
           <div className="row justify-content-center">
@@ -137,7 +160,7 @@ const Form = ({ style = "4", rtl }) => {
         </div>
       </div> */}
     </section>
-  )
-}
+  );
+};
 
-export default Form
+export default Form;
